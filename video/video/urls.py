@@ -14,3 +14,5 @@ urlpatterns += static(
     document_root=settings.MEDIA_ROOT
 )
 urlpatterns += staticfiles_urlpatterns()
+
+
