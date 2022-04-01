@@ -16,3 +16,4 @@ urlpatterns += static(
 urlpatterns += staticfiles_urlpatterns()
 
 
+
